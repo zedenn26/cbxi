@@ -1041,5 +1041,68 @@
     "label": "Banner slide 5 image URL",
     "value": "/images/it-team.jpg",
     "type": "image"
+  },
+  {
+    "id": "about.team.label",
+    "group": "about",
+    "label": "Team: label",
+    "value": "The people behind your solutions",
+    "type": "text"
+  },
+  {
+    "id": "about.team.heading",
+    "group": "about",
+    "label": "Team: heading",
+    "value": "Our two principal experts.",
+    "type": "text"
+  },
+  {
+    "id": "about.team.intro",
+    "group": "about",
+    "label": "Team: intro",
+    "value": "Zed-Enn and Shan-P lead our solutions and technical delivery, working together to understand your requirements and turn them into practical results.",
+    "type": "text"
+  },
+  {
+    "id": "about.team.zed.name",
+    "group": "about",
+    "label": "Team: zed — name",
+    "value": "Zed-Enn",
+    "type": "text"
+  },
+  {
+    "id": "about.team.zed.role",
+    "group": "about",
+    "label": "Team: zed — role",
+    "value": "Principal Expert · Solutions & Technology",
+    "type": "text"
+  },
+  {
+    "id": "about.team.zed.description",
+    "group": "about",
+    "label": "Team: zed — description",
+    "value": "Supporting your business across solution planning, technical implementation and ongoing support.",
+    "type": "text"
+  },
+  {
+    "id": "about.team.shan.name",
+    "group": "about",
+    "label": "Team: shan — name",
+    "value": "Shan-P",
+    "type": "text"
+  },
+  {
+    "id": "about.team.shan.role",
+    "group": "about",
+    "label": "Team: shan — role",
+    "value": "Principal Expert · Solutions & Technology",
+    "type": "text"
+  },
+  {
+    "id": "about.team.shan.description",
+    "group": "about",
+    "label": "Team: shan — description",
+    "value": "Supporting your business across solution planning, technical implementation and ongoing support.",
+    "type": "text"
   }
 ]
