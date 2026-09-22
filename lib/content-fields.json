@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "home.text1",
+    "group": "home",
+    "label": "Cubixtop India · Technology with purpose",
+    "value": "Cubixtop India · Technology with purpose",
+    "type": "text"
+  },
+  {
+    "id": "home.text2",
+    "group": "home",
+    "label": "Build. Connect.",
+    "value": "Build. Connect.",
+    "type": "text"
+  },
+  {
+    "id": "home.text3",
+    "group": "home",
+    "label": "Grow with",
+    "value": "Grow with",
+    "type": "text"
+  },
+  {
+    "id": "home.text4",
+    "group": "home",
+    "label": "confidence.",
+    "value": "confidence.",
+    "type": "text"
+  },
+  {
+    "id": "home.text5",
+    "group": "home",
+    "label": "Discover our solutions",
+    "value": "Discover our solutions ",
+    "type": "text"
+  },
+  {
+    "id": "home.text6",
+    "group": "home",
+    "label": "Your business has ambition.",
+    "value": "Your business has ambition.",
+    "type": "text"
+  },
+  {
+    "id": "home.text7",
+    "group": "home",
+    "label": "We bring the technology to move it forward.",
+    "value": "We bring the technology to move it forward.",
+    "type": "text"
+  },
+  {
+    "id": "home.text8",
+    "group": "home",
+    "label": "IT INFRASTRUCTURE / DIGITAL / BUSINESS SOLUTIONS",
+    "value": "IT INFRASTRUCTURE / DIGITAL / BUSINESS SOLUTIONS",
+    "type": "text"
+  },
+  {
+    "id": "home.text9",
+    "group": "home",
+    "label": "Good things start with a conversation.",
+    "value": "Good things start with a conversation.",
+    "type": "text"
+  },
+  {
+    "id": "home.text10",
+    "group": "home",
+    "label": "Let’s work together",
+    "value": "Let’s work together ",
+    "type": "text"
+  },
+  {
+    "id": "home.text11",
+    "group": "home",
+    "label": "01 / Who we are",
+    "value": "01 / Who we are",
+    "type": "text"
+  },
+  {
+    "id": "home.text12",
+    "group": "home",
+    "label": "One partner.",
+    "value": "One partner.",
+    "type": "text"
+  },
+  {
+    "id": "home.text13",
+    "group": "home",
+    "label": "A world of possibilities.",
+    "value": "A world of possibilities.",
+    "type": "text"
+  },
+  {
+    "id": "home.text14",
+    "group": "home",
+    "label": "Technology should make your business simpler. We bring your IT, digital and workplace needs together with practical solutions and personal support.",
+    "value": "Technology should make your business simpler. We bring your IT, digital and workplace needs together with practical solutions and personal support.",
+    "type": "text"
+  },
+  {
+    "id": "home.text15",
+    "group": "home",
+    "label": "Our approach",
+    "value": "Our approach",
+    "type": "text"
+  },
+  {
+    "id": "home.text16",
+    "group": "home",
+    "label": "Understand your needs. Find the right solution. Help you move forward.",
+    "value": "Understand your needs. Find the right solution. Help you move forward.",
+    "type": "text"
+  },
+  {
+    "id": "home.text17",
+    "group": "home",
+    "label": "What matters to us",
+    "value": "What matters to us",
+    "type": "text"
+  },
+  {
+    "id": "home.text18",
+    "group": "home",
+    "label": "Clear communication. Reliable service. Technology that works for you.",
+    "value": "Clear communication. Reliable service. Technology that works for you.",
+    "type": "text"
+  },
+  {
+    "id": "home.text19",
+    "group": "home",
+    "label": "Meet Cubixtop India",
+    "value": "Meet Cubixtop India ",
+    "type": "text"
+  },
+  {
+    "id": "home.text20",
+    "group": "home",
+    "label": "02 / Our expertise",
+    "value": "02 / Our expertise",
+    "type": "text"
+  },
+  {
+    "id": "home.text21",
+    "group": "home",
+    "label": "Built around",
+    "value": "Built around",
+    "type": "text"
+  },
+  {
+    "id": "home.text22",
+    "group": "home",
+    "label": "your business.",
+    "value": "your business.",
+    "type": "text"
+  },
+  {
+    "id": "home.text23",
+    "group": "home",
+    "label": "Explore all services",
+    "value": "Explore all services ",
+    "type": "text"
+  },
+  {
+    "id": "home.text24",
+    "group": "home",
+    "label": "INFRASTRUCTURE & SUPPORT",
+    "value": "INFRASTRUCTURE & SUPPORT",
+    "type": "text"
+  },
+  {
+    "id": "home.text25",
+    "group": "home",
+    "label": "A stronger foundation.",
+    "value": "A stronger foundation.",
+    "type": "text"
+  },
+  {
+    "id": "home.text26",
+    "group": "home",
+    "label": "WEBSITES & APPLICATIONS",
+    "value": "WEBSITES & APPLICATIONS",
+    "type": "text"
+  },
+  {
+    "id": "home.text27",
+    "group": "home",
+    "label": "Your next possibility.",
+    "value": "Your next possibility.",
+    "type": "text"
+  },
+  {
+    "id": "home.text28",
+    "group": "home",
+    "label": "03 / What we do",
+    "value": "03 / What we do",
+    "type": "text"
+  },
+  {
+    "id": "home.text29",
+    "group": "home",
+    "label": "The right expertise.",
+    "value": "The right expertise.",
+    "type": "text"
+  },
+  {
+    "id": "home.text30",
+    "group": "home",
+    "label": "At every step.",
+    "value": "At every step.",
+    "type": "text"
+  },
+  {
+    "id": "home.text31",
+    "group": "home",
+    "label": "Contractual IT infrastructure maintenance and software solutions for every business.",
+    "value": "Contractual IT infrastructure maintenance and software solutions for every business.",
+    "type": "text"
+  },
+  {
+    "id": "home.text32",
+    "group": "home",
+    "label": "04 / Our way",
+    "value": "04 / Our way",
+    "type": "text"
+  },
+  {
+    "id": "home.text33",
+    "group": "home",
+    "label": "Better technology.",
+    "value": "Better technology.",
+    "type": "text"
+  },
+  {
+    "id": "home.text34",
+    "group": "home",
+    "label": "Better everyday.",
+    "value": "Better everyday.",
+    "type": "text"
+  },
+  {
+    "id": "home.text35",
+    "group": "home",
+    "label": "A well-connected workplace makes room for great work. We help bring the systems, tools and support together so you can focus on what comes next.",
+    "value": "A well-connected workplace makes room for great work. We help bring the systems, tools and support together so you can focus on what comes next.",
+    "type": "text"
+  },
+  {
+    "id": "home.text36",
+    "group": "home",
+    "label": "Discover our approach",
+    "value": "Discover our approach ",
+    "type": "text"
+  },
+  {
+    "id": "home.image37",
+    "group": "home",
+    "label": "Image URL: Modern office with connected workstations",
+    "value": "/images/servers.jpg",
+    "type": "image"
+  },
+  {
+    "id": "home.image37.alt",
+    "group": "home",
+    "label": "Image description",
+    "value": "Network equipment in a business server room",
+    "type": "text"
+  },
+  {
+    "id": "home.image38",
+    "group": "home",
+    "label": "Image URL: Business analytics on a digital dashboard",
+    "value": "/images/software.jpg",
+    "type": "image"
+  },
+  {
+    "id": "home.image38.alt",
+    "group": "home",
+    "label": "Image description",
+    "value": "Software development workspace with a laptop and monitor",
+    "type": "text"
+  },
+  {
+    "id": "home.image39",
+    "group": "home",
+    "label": "Image URL: Bright collaborative business workspace",
+    "value": "/images/it-team.jpg",
+    "type": "image"
+  },
+  {
+    "id": "home.image39.alt",
+    "group": "home",
+    "label": "Image description",
+    "value": "Technology professionals collaborating on laptops",
+    "type": "text"
+  },
+  {
+    "id": "about.text1",
+    "group": "about",
+    "label": "About Cubixtop India",
+    "value": "About Cubixtop India",
+    "type": "text"
+  },
+  {
+    "id": "about.text2",
+    "group": "about",
+    "label": "Technology.",
+    "value": "Technology.",
+    "type": "text"
+  },
+  {
+    "id": "about.text3",
+    "group": "about",
+    "label": "With purpose.",
+    "value": "With purpose.",
+    "type": "text"
+  },
+  {
+    "id": "about.text4",
+    "group": "about",
+    "label": "A single partner for your technology, digital and workplace needs.",
+    "value": "A single partner for your technology, digital and workplace needs.",
+    "type": "text"
+  },
+  {
+    "id": "about.text5",
+    "group": "about",
+    "label": "Who we are",
+    "value": "Who we are",
+    "type": "text"
+  },
+  {
+    "id": "about.text6",
+    "group": "about",
+    "label": "Practical thinking.",
+    "value": "Practical thinking.",
+    "type": "text"
+  },
+  {
+    "id": "about.text7",
+    "group": "about",
+    "label": "Connected solutions.",
+    "value": "Connected solutions.",
+    "type": "text"
+  },
+  {
+    "id": "about.text8",
+    "group": "about",
+    "label": "Cubixtop India brings together managed IT, cloud services, business software, website development and company infrastructure. Our focus is simple: help your technology work better for your business.",
+    "value": "Cubixtop India brings together managed IT, cloud services, business software, website development and company infrastructure. Our focus is simple: help your technology work better for your business.",
+    "type": "text"
+  },
+  {
+    "id": "about.text9",
+    "group": "about",
+    "label": "We start by listening",
+    "value": "We start by listening",
+    "type": "text"
+  },
+  {
+    "id": "about.text10",
+    "group": "about",
+    "label": "Your requirements guide the scope, approach and solution.",
+    "value": "Your requirements guide the scope, approach and solution.",
+    "type": "text"
+  },
+  {
+    "id": "about.text11",
+    "group": "about",
+    "label": "We keep it practical",
+    "value": "We keep it practical",
+    "type": "text"
+  },
+  {
+    "id": "about.text12",
+    "group": "about",
+    "label": "Clear advice and purposeful technology, built around everyday needs.",
+    "value": "Clear advice and purposeful technology, built around everyday needs.",
+    "type": "text"
+  },
+  {
+    "id": "about.text13",
+    "group": "about",
+    "label": "Explore our expertise ↗",
+    "value": "Explore our expertise ↗",
+    "type": "text"
+  },
+  {
+    "id": "about.text14",
+    "group": "about",
+    "label": "Our approach",
+    "value": "Our approach",
+    "type": "text"
+  },
+  {
+    "id": "about.text15",
+    "group": "about",
+    "label": "From the first idea.",
+    "value": "From the first idea.",
+    "type": "text"
+  },
+  {
+    "id": "about.text16",
+    "group": "about",
+    "label": "To the everyday.",
+    "value": "To the everyday.",
+    "type": "text"
+  },
+  {
+    "id": "about.text17",
+    "group": "about",
+    "label": "Whether you’re building a digital presence, setting up cloud systems or managing your company’s infrastructure, we help you connect the pieces with one point of contact.",
+    "value": "Whether you’re building a digital presence, setting up cloud systems or managing your company’s infrastructure, we help you connect the pieces with one point of contact.",
+    "type": "text"
+  },
+  {
+    "id": "about.text18",
+    "group": "about",
+    "label": "Let’s talk about your business ↗",
+    "value": "Let’s talk about your business ↗",
+    "type": "text"
+  },
+  {
+    "id": "about.image19",
+    "group": "about",
+    "label": "Image URL: A modern collaborative workplace",
+    "value": "/images/it-team.jpg",
+    "type": "image"
+  },
+  {
+    "id": "about.image19.alt",
+    "group": "about",
+    "label": "Image description",
+    "value": "Technology professionals collaborating on laptops",
+    "type": "text"
+  },
+  {
+    "id": "services.text1",
+    "group": "services",
+    "label": "Our capabilities",
+    "value": "Our capabilities",
+    "type": "text"
+  },
+  {
+    "id": "services.text2",
+    "group": "services",
+    "label": "Services page heading",
+    "value": "IT for your business.",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text1",
+    "group": "service-detail",
+    "label": "← All services",
+    "value": "← All services",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text2",
+    "group": "service-detail",
+    "label": "A solution that fits",
+    "value": "A solution that fits",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text3",
+    "group": "service-detail",
+    "label": "Let’s get your",
+    "value": "Let’s get your",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text4",
+    "group": "service-detail",
+    "label": "business moving.",
+    "value": "business moving.",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text5",
+    "group": "service-detail",
+    "label": "01 / Understand",
+    "value": "01 / Understand",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text6",
+    "group": "service-detail",
+    "label": "Share your current setup, goals and requirements.",
+    "value": "Share your current setup, goals and requirements.",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text7",
+    "group": "service-detail",
+    "label": "02 / Plan",
+    "value": "02 / Plan",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text8",
+    "group": "service-detail",
+    "label": "Discuss a suitable approach, scope and timeline with our team.",
+    "value": "Discuss a suitable approach, scope and timeline with our team.",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text9",
+    "group": "service-detail",
+    "label": "Start a conversation.",
+    "value": "Start a conversation.",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.text10",
+    "group": "service-detail",
+    "label": "Discuss your requirements with our team.",
+    "value": "Discuss your requirements with our team.",
+    "type": "text"
+  },
+  {
+    "id": "contact.text1",
+    "group": "contact",
+    "label": "Start a conversation",
+    "value": "Start a conversation",
+    "type": "text"
+  },
+  {
+    "id": "contact.text2",
+    "group": "contact",
+    "label": "Let’s solve it",
+    "value": "Let’s solve it",
+    "type": "text"
+  },
+  {
+    "id": "contact.text3",
+    "group": "contact",
+    "label": "together.",
+    "value": "together.",
+    "type": "text"
+  },
+  {
+    "id": "contact.text4",
+    "group": "contact",
+    "label": "Have an idea, a challenge or a technology requirement? Tell us about it. We’re ready to help you take the next step.",
+    "value": "Have an idea, a challenge or a technology requirement? Tell us about it. We’re ready to help you take the next step.",
+    "type": "text"
+  },
+  {
+    "id": "contact.text5",
+    "group": "contact",
+    "label": "Get in touch",
+    "value": "Get in touch",
+    "type": "text"
+  },
+  {
+    "id": "contact.text6",
+    "group": "contact",
+    "label": "Good work starts",
+    "value": "Good work starts",
+    "type": "text"
+  },
+  {
+    "id": "contact.text7",
+    "group": "contact",
+    "label": "with a hello.",
+    "value": "with a hello.",
+    "type": "text"
+  },
+  {
+    "id": "contact.text8",
+    "group": "contact",
+    "label": "Share your requirements and our team will get back to you to discuss the right solution.",
+    "value": "Share your requirements and our team will get back to you to discuss the right solution.",
+    "type": "text"
+  },
+  {
+    "id": "contact.text9",
+    "group": "contact",
+    "label": "info@cubixtop.com ↗",
+    "value": "info@cubixtop.com ↗",
+    "type": "text"
+  },
+  {
+    "id": "contact.text10",
+    "group": "contact",
+    "label": "Tell us about your project",
+    "value": "Tell us about your project",
+    "type": "text"
+  },
+  {
+    "id": "contact.text11",
+    "group": "contact",
+    "label": "How can we help?",
+    "value": "How can we help?",
+    "type": "text"
+  },
+  {
+    "id": "contact.text12",
+    "group": "contact",
+    "label": "Send a few details and we’ll help you find the right solution.",
+    "value": "Send a few details and we’ll help you find the right solution.",
+    "type": "text"
+  },
+  {
+    "id": "footer.text1",
+    "group": "footer",
+    "label": "Ready to build",
+    "value": "Ready to build",
+    "type": "text"
+  },
+  {
+    "id": "footer.text2",
+    "group": "footer",
+    "label": "what’s next?",
+    "value": "what’s next?",
+    "type": "text"
+  },
+  {
+    "id": "footer.text3",
+    "group": "footer",
+    "label": "Technology, infrastructure and digital",
+    "value": "Technology, infrastructure and digital",
+    "type": "text"
+  },
+  {
+    "id": "footer.text4",
+    "group": "footer",
+    "label": "solutions for modern businesses.",
+    "value": "solutions for modern businesses.",
+    "type": "text"
+  },
+  {
+    "id": "footer.text5",
+    "group": "footer",
+    "label": "Explore",
+    "value": "Explore",
+    "type": "text"
+  },
+  {
+    "id": "footer.text6",
+    "group": "footer",
+    "label": "About us",
+    "value": "About us",
+    "type": "text"
+  },
+  {
+    "id": "footer.text7",
+    "group": "footer",
+    "label": "Our services",
+    "value": "Our services",
+    "type": "text"
+  },
+  {
+    "id": "footer.text8",
+    "group": "footer",
+    "label": "Contact",
+    "value": "Contact",
+    "type": "text"
+  },
+  {
+    "id": "footer.text9",
+    "group": "footer",
+    "label": "Let’s talk",
+    "value": "Let’s talk",
+    "type": "text"
+  },
+  {
+    "id": "footer.text10",
+    "group": "footer",
+    "label": "info@cubixtop.com",
+    "value": "info@cubixtop.com ",
+    "type": "text"
+  },
+  {
+    "id": "footer.text11",
+    "group": "footer",
+    "label": "Tell us about your next project.",
+    "value": "Tell us about your next project.",
+    "type": "text"
+  },
+  {
+    "id": "footer.text12",
+    "group": "footer",
+    "label": "Back to top ↑",
+    "value": "Back to top ↑",
+    "type": "text"
+  },
+  {
+    "id": "footer.image13",
+    "group": "footer",
+    "label": "Image URL: Cubixtop India",
+    "value": "/logo-transparent.png",
+    "type": "image"
+  },
+  {
+    "id": "footer.image13.alt",
+    "group": "footer",
+    "label": "Image description",
+    "value": "Cubixtop India",
+    "type": "text"
+  },
+  {
+    "id": "home.heroImage",
+    "group": "home",
+    "label": "Banner slide 1 image URL",
+    "value": "/images/code.jpg",
+    "type": "image"
+  },
+  {
+    "id": "home.sector0.title",
+    "group": "home",
+    "label": "Expertise title",
+    "value": "IT & cloud infrastructure",
+    "type": "text"
+  },
+  {
+    "id": "home.sector0.text",
+    "group": "home",
+    "label": "Expertise description",
+    "value": "Build a dependable foundation with cloud operations, hosting, business email and connected systems.",
+    "type": "text"
+  },
+  {
+    "id": "home.sector1.title",
+    "group": "home",
+    "label": "Expertise title",
+    "value": "Digital experiences",
+    "type": "text"
+  },
+  {
+    "id": "home.sector1.text",
+    "group": "home",
+    "label": "Expertise description",
+    "value": "Bring your ideas to life with responsive websites and applications shaped around your business.",
+    "type": "text"
+  },
+  {
+    "id": "home.sector2.title",
+    "group": "home",
+    "label": "Expertise title",
+    "value": "Connected workplaces",
+    "type": "text"
+  },
+  {
+    "id": "home.sector2.text",
+    "group": "home",
+    "label": "Expertise description",
+    "value": "Keep your team productive with managed IT, software support and annual maintenance contracts.",
+    "type": "text"
+  },
+  {
+    "id": "service-detail.intro",
+    "group": "service-detail",
+    "label": "Service introduction",
+    "value": "Tell us your requirements. We’ll clarify the scope and help you plan the next steps.",
+    "type": "text"
+  },
+  {
+    "id": "global.enquiryLabel",
+    "group": "contact",
+    "label": "Enquiry button label",
+    "value": "Let’s discuss your requirements",
+    "type": "text"
+  },
+  {
+    "id": "services.intro",
+    "group": "services",
+    "label": "Services introduction",
+    "value": "Contractual IT infrastructure maintenance and software solutions for businesses worldwide.",
+    "type": "text"
+  },
+  {
+    "id": "services.photo.it-infrastructure-contractual-maintenance",
+    "group": "services",
+    "label": "IT infrastructure contractual maintenance image URL",
+    "value": "/images/it-team.jpg",
+    "type": "image"
+  },
+  {
+    "id": "services.photo.it-infrastructure-contractual-maintenance.alt",
+    "group": "services",
+    "label": "IT infrastructure contractual maintenance image description",
+    "value": "Technology professionals collaborating with laptops",
+    "type": "text"
+  },
+  {
+    "id": "services.photo.it-infrastructure-and-networking",
+    "group": "services",
+    "label": "it infrastructure and networking image URL",
+    "value": "/images/servers.jpg",
+    "type": "image"
+  },
+  {
+    "id": "services.photo.it-infrastructure-and-networking.alt",
+    "group": "services",
+    "label": "it infrastructure and networking image description",
+    "value": "Network cables and equipment in server racks",
+    "type": "text"
+  },
+  {
+    "id": "services.photo.custom-application-development",
+    "group": "services",
+    "label": "custom application development image URL",
+    "value": "/images/software.jpg",
+    "type": "image"
+  },
+  {
+    "id": "services.photo.custom-application-development.alt",
+    "group": "services",
+    "label": "custom application development image description",
+    "value": "Software development workspace with code on a laptop",
+    "type": "text"
+  },
+  {
+    "id": "services.photo.cloud-operations-and-setup",
+    "group": "services",
+    "label": "cloud operations and setup image URL",
+    "value": "/images/servers.jpg",
+    "type": "image"
+  },
+  {
+    "id": "services.photo.cloud-operations-and-setup.alt",
+    "group": "services",
+    "label": "cloud operations and setup image description",
+    "value": "Server infrastructure supporting cloud systems",
+    "type": "text"
+  },
+  {
+    "id": "services.photo.cybersecurity-and-backup",
+    "group": "services",
+    "label": "cybersecurity and backup image URL",
+    "value": "/images/digital.jpg",
+    "type": "image"
+  },
+  {
+    "id": "services.photo.cybersecurity-and-backup.alt",
+    "group": "services",
+    "label": "cybersecurity and backup image description",
+    "value": "Computer screen displaying data monitoring dashboards",
+    "type": "text"
+  },
+  {
+    "id": "services.photo.customized-website-design",
+    "group": "services",
+    "label": "customized website design image URL",
+    "value": "/images/software.jpg",
+    "type": "image"
+  },
+  {
+    "id": "services.photo.customized-website-design.alt",
+    "group": "services",
+    "label": "customized website design image description",
+    "value": "Website development on a laptop and desktop display",
+    "type": "text"
+  },
+  {
+    "id": "company.eyebrow",
+    "group": "about",
+    "label": "Values section label",
+    "value": "What we stand for",
+    "type": "text"
+  },
+  {
+    "id": "company.heading",
+    "group": "about",
+    "label": "Values section heading",
+    "value": "Your goals. Our commitment.",
+    "type": "text"
+  },
+  {
+    "id": "company.mission.title",
+    "group": "about",
+    "label": "Our mission — title",
+    "value": "Our mission",
+    "type": "text"
+  },
+  {
+    "id": "company.mission.text",
+    "group": "about",
+    "label": "Our mission — text",
+    "value": "To make business technology dependable and accessible through practical IT infrastructure, software and support shaped around each client’s needs.",
+    "type": "text"
+  },
+  {
+    "id": "company.vision.title",
+    "group": "about",
+    "label": "Our vision — title",
+    "value": "Our vision",
+    "type": "text"
+  },
+  {
+    "id": "company.vision.text",
+    "group": "about",
+    "label": "Our vision — text",
+    "value": "To be a trusted technology partner for businesses that want to grow with confidence, supported by connected systems and people who care about their success.",
+    "type": "text"
+  },
+  {
+    "id": "company.clients.title",
+    "group": "about",
+    "label": "Clients at the centre — title",
+    "value": "Clients at the centre",
+    "type": "text"
+  },
+  {
+    "id": "company.clients.text",
+    "group": "about",
+    "label": "Clients at the centre — text",
+    "value": "We listen carefully, respect your priorities and shape our work around your requirements. We believe lasting relationships begin with understanding your business.",
+    "type": "text"
+  },
+  {
+    "id": "company.ownership.title",
+    "group": "about",
+    "label": "Commitment to delivery — title",
+    "value": "Commitment to delivery",
+    "type": "text"
+  },
+  {
+    "id": "company.ownership.text",
+    "group": "about",
+    "label": "Commitment to delivery — text",
+    "value": "We agree on the scope, keep you informed and take responsibility for completing the work. When requirements change, we work with you to agree on the next steps.",
+    "type": "text"
+  },
+  {
+    "id": "company.clarity.title",
+    "group": "about",
+    "label": "Honest communication — title",
+    "value": "Honest communication",
+    "type": "text"
+  },
+  {
+    "id": "company.clarity.text",
+    "group": "about",
+    "label": "Honest communication — text",
+    "value": "We value clear advice, realistic expectations and open conversations. You should know what we are working on and how it supports your goals.",
+    "type": "text"
+  },
+  {
+    "id": "company.remote.title",
+    "group": "about",
+    "label": "Flexible work. Shared responsibility. — title",
+    "value": "Flexible work. Shared responsibility.",
+    "type": "text"
+  },
+  {
+    "id": "company.remote.text",
+    "group": "about",
+    "label": "Flexible work. Shared responsibility. — text",
+    "value": "Our developers and support team work from home, collaborating remotely to deliver client projects and provide support. We organise our work around agreed priorities, regular communication and accountability for delivery.",
+    "type": "text"
+  },
+  {
+    "id": "social.instagram",
+    "group": "footer",
+    "label": "Instagram profile URL (leave blank to hide)",
+    "value": "https://www.instagram.com/cubixtop/",
+    "type": "social"
+  },
+  {
+    "id": "social.facebook",
+    "group": "footer",
+    "label": "Facebook profile URL (leave blank to hide)",
+    "value": "https://www.facebook.com/cubixtop",
+    "type": "social"
+  },
+  {
+    "id": "social.linkedin",
+    "group": "footer",
+    "label": "LinkedIn profile URL (leave blank to hide)",
+    "value": "https://www.linkedin.com/company/cubixtop/",
+    "type": "social"
+  },
+  {
+    "id": "about.banner",
+    "group": "about",
+    "label": "Page banner image URL",
+    "value": "/images/it-team.jpg",
+    "type": "image"
+  },
+  {
+    "id": "about.banner.alt",
+    "group": "about",
+    "label": "Page banner image description",
+    "value": "Technology professionals collaborating remotely",
+    "type": "text"
+  },
+  {
+    "id": "services.banner",
+    "group": "services",
+    "label": "Page banner image URL",
+    "value": "/images/servers.jpg",
+    "type": "image"
+  },
+  {
+    "id": "services.banner.alt",
+    "group": "services",
+    "label": "Page banner image description",
+    "value": "Business server and networking infrastructure",
+    "type": "text"
+  },
+  {
+    "id": "contact.banner",
+    "group": "contact",
+    "label": "Page banner image URL",
+    "value": "/images/software.jpg",
+    "type": "image"
+  },
+  {
+    "id": "contact.banner.alt",
+    "group": "contact",
+    "label": "Page banner image description",
+    "value": "A connected technology workspace",
+    "type": "text"
+  },
+  {
+    "id": "home.slide2",
+    "group": "home",
+    "label": "Banner slide 2 image URL",
+    "value": "/images/software.jpg",
+    "type": "image"
+  },
+  {
+    "id": "home.slide3",
+    "group": "home",
+    "label": "Banner slide 3 image URL",
+    "value": "/images/digital.jpg",
+    "type": "image"
+  },
+  {
+    "id": "home.slide4",
+    "group": "home",
+    "label": "Banner slide 4 image URL",
+    "value": "/images/servers.jpg",
+    "type": "image"
+  },
+  {
+    "id": "home.slide5",
+    "group": "home",
+    "label": "Banner slide 5 image URL",
+    "value": "/images/it-team.jpg",
+    "type": "image"
+  }
+]

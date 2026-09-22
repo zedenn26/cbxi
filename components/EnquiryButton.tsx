@@ -1,0 +1,5 @@
+'use client';
+import {Content} from './Cms';
+import {useState} from 'react';import {ArrowUpRight,MessageCircle,Phone} from 'lucide-react';import EnquiryModal from './EnquiryModal';
+export default function EnquiryButton({service,children='Let’s discuss your requirements'}:{service?:string,children?:React.ReactNode}){const[open,setOpen]=useState(false);return <><button className="btn" onClick={()=>setOpen(true)}><Content id="global.enquiryLabel">{children}</Content><ArrowUpRight size={18}/></button><EnquiryModal open={open} close={()=>setOpen(false)} service={service}/></>}
+export function ContactCorner(){return <div className="contact-corner"><a className="corner-phone" href="tel:+919481317929" aria-label="Call +91 9481 317 929"><Phone size={19}/></a><a className="whatsapp-button" href="https://wa.me/919481317929?text=Hello%20Cubixtop%20India%2C%20I%20would%20like%20to%20discuss%20a%20requirement." target="_blank" rel="noopener noreferrer" aria-label="Chat with Cubixtop on WhatsApp"><MessageCircle size={25}/><span>Chat with us</span></a></div>}
