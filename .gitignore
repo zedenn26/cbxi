@@ -1,6 +1,18 @@
 
 .env*
-!.env.example
 node_modules/
 .next/
 *.tsbuildinfo
+
+# Local setup, deployment metadata and private files
+.DS_Store
+DEPLOYMENT.md
+AGENTS.md
+CLAUDE.md
+.vercel/
+.netlify/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
